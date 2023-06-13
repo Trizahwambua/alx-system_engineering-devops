@@ -1,2 +1,1 @@
-#!/bin/bash
-my first reading
+mmy first reading
