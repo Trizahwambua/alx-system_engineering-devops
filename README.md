@@ -1,1 +1,2 @@
-mmy first reading
+#!/bin/bash
+my first reading
